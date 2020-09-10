@@ -1,0 +1,7 @@
+D:\learn here\đếm số đối xứng\đếm số đối xứng\bin\Debug\đếm số đối xứng.exe.config
+D:\learn here\đếm số đối xứng\đếm số đối xứng\bin\Debug\đếm số đối xứng.exe
+D:\learn here\đếm số đối xứng\đếm số đối xứng\bin\Debug\đếm số đối xứng.pdb
+D:\learn here\đếm số đối xứng\đếm số đối xứng\obj\Debug\đếm số đối xứng.csprojAssemblyReference.cache
+D:\learn here\đếm số đối xứng\đếm số đối xứng\obj\Debug\đếm số đối xứng.csproj.CoreCompileInputs.cache
+D:\learn here\đếm số đối xứng\đếm số đối xứng\obj\Debug\đếm số đối xứng.exe
+D:\learn here\đếm số đối xứng\đếm số đối xứng\obj\Debug\đếm số đối xứng.pdb
